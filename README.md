@@ -11,4 +11,5 @@ My stats :point_down:
 Contact :speech_balloon:
 
 LinkdIn : https://www.linkedin.com/in/grégory-baptiste/
+
 Mail : gregory.baptiste@hotmail.fr
